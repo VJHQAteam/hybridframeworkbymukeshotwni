@@ -15,6 +15,7 @@ public class LoginPage {
 	public void logintoprimusbank(String username,String password){
 		
 		usrname.sendKeys(username);
+		
 		pwd.sendKeys(password);
 		loginbutton.click();
 		
