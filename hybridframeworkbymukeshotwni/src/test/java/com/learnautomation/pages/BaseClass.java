@@ -32,6 +32,7 @@ public class BaseClass {
 	
 	
 	
+	
 	@BeforeSuite///All the TestNG Annotation being used and its importance
 	public void SetupSuite(){
 		
