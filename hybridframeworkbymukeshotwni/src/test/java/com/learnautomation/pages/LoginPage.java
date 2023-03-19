@@ -17,7 +17,7 @@ public class LoginPage {
 		usrname.sendKeys(username);
 		
 		pwd.sendKeys(password);
-		loginbutton.click();
+		loginbutton.click(); 
 		
 		
 	
